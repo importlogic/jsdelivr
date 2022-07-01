@@ -1,1 +1,1 @@
-[ <a href="https://cdn.jsdelivr.net/gh/importlogic/jsdelivr/"> jsdelivr link </a> ]
+[ <a href="https://cdn.jsdelivr.net/gh/importlogic/jsdelivr/" target="_blank"> jsdelivr link </a> ]
